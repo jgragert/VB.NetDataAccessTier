@@ -1,0 +1,8 @@
+C:\VinNOW_Source\DataAccessTier\obj\Debug\DataAccessTier.Resources.resources
+C:\VinNOW_Source\DataAccessTier\obj\Debug\DataAccessTier.vbproj.GenerateResource.Cache
+C:\VinNOW_Source\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\VinNOW_Source\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\VinNOW_Source\DataAccessTier\bin\Debug\DataAccessTier.xml
+C:\VinNOW_Source\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\VinNOW_Source\DataAccessTier\obj\Debug\DataAccessTier.xml
+C:\VinNOW_Source\DataAccessTier\obj\Debug\DataAccessTier.pdb
